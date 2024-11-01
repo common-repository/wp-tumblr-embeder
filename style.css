@@ -1,0 +1,158 @@
+ol.tumblr_posts
+{
+    display: block;
+    margin: 0px;
+    padding: 0px;
+}
+
+li.tumblr_post
+{
+    display: block;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #999;
+    list-style-image: none;
+	list-style-type: none;
+    padding: 10px 0px;
+}
+
+.tumblr_body
+{
+	font-size: 12px;
+	color: #444;
+	line-height: 17px;	
+}
+
+.tumblr_description
+{
+	font-size: 13px;
+	font-weight: normal;
+	letter-spacing: -1px;
+	color: #444;
+}
+
+.tumblr_post
+{
+	
+}
+
+.tumblr_quote
+{
+	color: #333;
+    font-weight: bold;	
+}
+
+.tumblr_quote_post
+{
+	padding-left: 45px !important;
+    background: transparent url(images/quote.png) no-repeat 0px 10px;
+}
+
+.tumblr_open_quote
+{
+}
+
+.tumblr_close_quote
+{
+	
+}
+
+.tumblr_source
+{
+	color: #999;
+    font-style: italic;
+    font-size: 90%;
+}
+
+.tumblr_photo_post
+{
+	padding-left: 45px !important;
+    background: transparent url(images/photo.png) no-repeat 0px 10px;
+}
+
+.tumblr_photo
+{
+	
+}
+
+.tumblr_caption
+{
+	font-weight: bold;
+	color: #999;
+	margin-top: 10px;
+}
+
+.tumblr_link_post
+{
+	padding-left: 45px !important;
+    background: transparent url(images/link.png) no-repeat 0px 10px;
+}
+
+.tumblr_link
+{
+	font: Bold;	
+}
+
+.tumblr_chat_post
+{
+	padding-left: 45px !important;
+    background: transparent url(images/chat.png) no-repeat 0px 10px;
+}
+
+.tumblr_chat_post ul
+{
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+	border-left: solid 5px #AAA;
+}
+
+.tumblr_chat_post  ul li
+{
+	padding: 4px 10px 4px 8px;
+	color: #333;
+    font-size: 90%;
+}
+
+.tumblr_label
+{
+	font-weight: bold;	
+}
+
+.tumblr_text_post
+{
+	padding-left: 55px !important;
+    background: transparent url(images/text.png) no-repeat 0px 10px;
+}
+
+.tumblr_text_post ol li
+{
+	list-style-type: decimal;
+	margin-bottom: 0;
+	padding-bottom: 0;
+	border-bottom-style: none;
+}
+
+.tumblr_title
+{
+	font-size: 120%;
+	font-weight: bold;
+	color: #333;
+	margin: 0px 0px 10px 0px;	
+}
+
+.tumblr_video_post
+{
+	padding-left: 55px !important;
+    background: transparent url(images/video.png) no-repeat 0px 10px;
+}
+
+.tumblr_video
+{
+	text-align: center;
+}
+
+.tumblr_audio_post
+{
+	padding-left: 55px !important;
+    background: transparent url(images/sound.png) no-repeat 0px 10px;
+}
